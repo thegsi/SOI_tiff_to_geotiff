@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+grid_shp/
+SOI_geotiffs/
+SOI_tiff_to_geotiff/
+SOI_tiffs/
+SOI_tiffs_gcps/
